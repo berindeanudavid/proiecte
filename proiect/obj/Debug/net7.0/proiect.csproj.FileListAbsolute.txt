@@ -1,0 +1,14 @@
+C:\BAZELE_INFORMATICII\proiect\bin\Debug\net7.0\proiect.exe
+C:\BAZELE_INFORMATICII\proiect\bin\Debug\net7.0\proiect.deps.json
+C:\BAZELE_INFORMATICII\proiect\bin\Debug\net7.0\proiect.runtimeconfig.json
+C:\BAZELE_INFORMATICII\proiect\bin\Debug\net7.0\proiect.dll
+C:\BAZELE_INFORMATICII\proiect\bin\Debug\net7.0\proiect.pdb
+C:\BAZELE_INFORMATICII\proiect\obj\Debug\net7.0\proiect.GeneratedMSBuildEditorConfig.editorconfig
+C:\BAZELE_INFORMATICII\proiect\obj\Debug\net7.0\proiect.AssemblyInfoInputs.cache
+C:\BAZELE_INFORMATICII\proiect\obj\Debug\net7.0\proiect.AssemblyInfo.cs
+C:\BAZELE_INFORMATICII\proiect\obj\Debug\net7.0\proiect.csproj.CoreCompileInputs.cache
+C:\BAZELE_INFORMATICII\proiect\obj\Debug\net7.0\proiect.dll
+C:\BAZELE_INFORMATICII\proiect\obj\Debug\net7.0\refint\proiect.dll
+C:\BAZELE_INFORMATICII\proiect\obj\Debug\net7.0\proiect.pdb
+C:\BAZELE_INFORMATICII\proiect\obj\Debug\net7.0\proiect.genruntimeconfig.cache
+C:\BAZELE_INFORMATICII\proiect\obj\Debug\net7.0\ref\proiect.dll
